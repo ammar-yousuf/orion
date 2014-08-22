@@ -28,7 +28,7 @@ gem 'spring',        group: :development
 
 gem 'roo'
 
-gem 'activeadmin'
+gem 'activeadmin', github: 'activeadmin'
 
 gem 'devise'
 
